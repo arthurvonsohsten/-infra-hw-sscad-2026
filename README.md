@@ -136,6 +136,6 @@ Este repositório é de uso acadêmico. Os scripts são distribuídos livremente
 
 ## 📬 Contato
 
-- alvs@cesar.school
-- ehsnl@cesar.school
-- mjfa@cesar.school
+- **Arthur Von Sohsten** -  [alvs@cesar.school](mailto:alvs@cesar.school)
+- **Eduardo Henrique** - [ehsnl@cesar.school](mailto:ehsnl@cesar.school)
+- **Miguel Andrade** - [mjfa@cesar.school](mailto:mjfa@cesar.school)
